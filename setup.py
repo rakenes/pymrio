@@ -12,7 +12,7 @@ setup(
     url="https://github.com/konstantinstadler/pymrio",
     author="Konstantin Stadler",
     author_email="konstantin.stadler@ntnu.no",
-    version=__version__,  # noqa
+    version= "3.8.10",  # noqa
     packages=find_packages(),
     include_package_data=True,
     python_requires=">=3.7.0",
